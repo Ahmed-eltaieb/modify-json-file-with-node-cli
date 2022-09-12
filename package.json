@@ -1,0 +1,14 @@
+{
+  "name": "json-notes",
+  "version": "1.0.0",
+  "description": "addind notes to a json file with cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test\""
+  },
+  "author": "ahmed Eltaieb",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
